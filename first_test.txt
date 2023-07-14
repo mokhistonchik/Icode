@@ -1,5 +1,9 @@
-ID
+ID 1
 Summary
-Preconditions
-Steps
-Expected result
+Check header tabs
+Precondition:
+Открыть сайт https://zara-shoki.github.io/wedding/ 
+Steps:
+1)Кликнуть в раздел "свадебные платья" Expected resuly: Отображается раздел "свадебные платья"
+2)Кликнуть раздел "Контакты" Expected result Отображается раздел "Контакты"
+3)Кликнтуть раздел "главная" Expected Result: Отображается раздел "Главная" 
